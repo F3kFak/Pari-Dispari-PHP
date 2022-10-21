@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+.sfondo {
+    background-color:deepskyblue;
+}
+
+.scritte {
+    font-family: 'Silkscreen', cursive;
+    color:blue;
+}
+
+.scritte_gioco {
+    font-size: 1.6rem;
+    font-family: 'Maven Pro', sans-serif;
+    color: blue;
+}
+
+.linea {
+    height: 6px;
+    width: 70%;
+    background-color: aliceblue;
+    border-radius: 1rem;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#invia {
+    vertical-align: middle;
+}
+
+input {
+    height: 1.5rem;
+}
+
+#valoreinviato {
+    padding-top: 0;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.zona-gioco {
+    margin-top: 2rem;
+}
+
+.select-pari_dispari {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: 'Silkscreen', cursive;
+}
+
+#input_nome{
+    font-family: 'Silkscreen', cursive;
+    width: 20%;
+}
